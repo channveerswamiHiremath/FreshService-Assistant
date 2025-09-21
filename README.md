@@ -2,7 +2,7 @@
 
 An AI system to answer questions about the Freshservice API. It scrapes official documentation and uses a RAG pipeline with Google Gemini LLM for accurate answers.
 
-*cite: Developed for the Artificial Intelligence Intern Assessment.*
+*cite: Developed for the AIML Intern Assessment.*
 
 ---
 
